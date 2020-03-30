@@ -1,0 +1,11 @@
+C:\c#_code\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.exe
+C:\c#_code\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.deps.json
+C:\c#_code\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.runtimeconfig.json
+C:\c#_code\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.runtimeconfig.dev.json
+C:\c#_code\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.dll
+C:\c#_code\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.pdb
+C:\c#_code\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.csprojAssemblyReference.cache
+C:\c#_code\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.AssemblyInfoInputs.cache
+C:\c#_code\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.AssemblyInfo.cs
+C:\c#_code\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.dll
+C:\c#_code\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.pdb
